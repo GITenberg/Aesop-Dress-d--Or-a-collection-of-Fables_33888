@@ -1,0 +1,37 @@
+_repo: Aesop-Dress-d--Or-a-collection-of-Fables_33888
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Shea, John S.
+    gutenberg_agent_id: '36824'
+    url: http://www.gutenberg.org/2009/agents/36824
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mandeville, Bernard
+    aliases:
+    - De Mandeville, Bernard
+    - Mandeville, B. (Bernard)
+    birthdate: 1670
+    deathdate: 1733
+    gutenberg_agent_id: '2543'
+    url: http://www.gutenberg.org/2009/agents/2543
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
+description: ''
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33888'
+  lccn: '66006697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, English -- Early works to 1800'
+- !lcsh 'Fables'
+- !lcc 'PR'
+title: Aesop Dress'd; Or, A Collection of Fables Writ in Familiar Verse
+url: http://www.gutenberg.org/ebooks/33888
