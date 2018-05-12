@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2543
     wikipedia: http://en.wikipedia.org/wiki/Bernard_de_Mandeville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33888#Aesop-Dress-d--Or-a-collection-of-Fables
 gutenberg_issued: '2010-10-29'
 gutenberg_type: Text
 identifiers:
